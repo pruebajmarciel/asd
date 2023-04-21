@@ -5,10 +5,6 @@ Carla Claverol
 Zucelys Guedes Estrada
 Iratxe Campo Larrinaga
 Sabela Fernandez
-<<<<<<< HEAD
 Ander Villate
->>>>>>> edbb879f827e4ae707f761a0beb21f314d271db5
-=======
 Carlos Pérez
->>>>>>> f1db9a5ac501a99c39aec4c0e4744d807e4bb3c6
 Maria Florencia Viudez Recagño
