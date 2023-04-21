@@ -1,5 +1,10 @@
 Jorge Marciel Pariente
 Julio Gonzalez Almeida
 Raul Garcia Mas
+<<<<<<< HEAD
 
 Zucelys Guedes Estrada
+=======
+Iratxe Campo Larrinaga
+Sabela Fernandez
+>>>>>>> edbb879f827e4ae707f761a0beb21f314d271db5
