@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 Carlos Pérez
 
+=======
+Jorge Marciel Pariente
+Julio Gonzalez Almeida
+Raul Garcia Mas
+Iratxe Campo Larrinaga
+>>>>>>> ad1d0842264fa8a7e1ba3be1e8407396067549f7
